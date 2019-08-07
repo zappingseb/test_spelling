@@ -6,7 +6,7 @@ This dummy repository shows that tests go through on:
 devtools::test()
 ```
 
-and fail on
+and fails on
 
 ```r
 devtools::check()
