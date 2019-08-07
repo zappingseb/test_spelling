@@ -12,5 +12,5 @@ and fails on
 devtools::check()
 ```
 
-All tests are fine if using two `WORDLIST` files. One in `inst` and on in `inst/inst`. This
+All tests (checks) are fine if using two `WORDLIST` files. One in `inst` and on in `inst/inst`. This
 is shown in the branch `double_inst`.
